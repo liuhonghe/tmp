@@ -1,0 +1,9 @@
+[user]
+	email = sma.flirt@gmail.com
+	name = 若我若鱼
+[push]
+	default = matching
+[core]
+	editor = vim
+[merge]
+	tool = vimdiff
